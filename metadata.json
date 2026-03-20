@@ -1,0 +1,5 @@
+{
+  "name": "Trivia AI",
+  "description": "Un juego de trivia dinámico con preguntas generadas por IA basadas en datos reales.",
+  "requestFramePermissions": []
+}
